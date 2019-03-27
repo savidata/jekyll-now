@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Welcome to the blog site for SaviData. Here you'll find some of my graduate course presentations and some data-centric blog posts in the future 🔮
 
-### More Information
+### More from SaviData
 
-A place to include any other types of information that you'd like to include about yourself.
+If you're interested in mobile development and design, check out my official [Devpost] (https://devpost.com/savidata).
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please don't.
