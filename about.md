@@ -8,7 +8,7 @@ Hi! Welcome to the blog site for SaviData. Here you'll find some of my graduate 
 
 ### More from SaviData
 
-If you're interested in mobile development and design, check out my official [Devpost](https://devpost.com/savidata/dv1).
+If you're interested in mobile development and design, check out my official [Devpost](https://devpost.com/savidata).
 
 
 ### Contact me
