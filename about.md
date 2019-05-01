@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! Welcome to the blog site for SaviData. Here you'll find some of my graduate course presentations and some data-centric blog posts in the future 🔮
+Hi! Welcome to the blog site for Savi Data. Here you'll find some of my graduate course presentations and some data-centric blog posts in the future 🔮
 
 ### More from Savi Data
 
